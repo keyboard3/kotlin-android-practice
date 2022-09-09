@@ -1,4 +1,4 @@
-package com.keyboard3.pratice
+package com.keyboard3.practice
 
 import org.junit.Test
 
